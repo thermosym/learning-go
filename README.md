@@ -10,3 +10,4 @@
 ## Core
 
 - [理解 Golang 哈希表 Map 的原理](https://draveness.me/golang-hashmap)
+- [Go 语言数组和切片的原理](https://draveness.me/golang-array-and-slice)
