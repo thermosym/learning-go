@@ -1,5 +1,10 @@
 # learning-go
 
+## Book
+
+- [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
+- [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)
+
 ## 坑
 
 - [Go语言的那些坑1](https://i6448038.github.io/2017/07/28/GolangDetails/)
@@ -7,6 +12,7 @@
 - [Go语言的那些坑3](https://i6448038.github.io/2018/07/18/golang-mistakes/)
 - [探索包初始化(init)](https://marcoma.xyz/2019/01/21/go-package-init/)
 - [Golang 中关于闭包的坑](https://www.jianshu.com/p/fa21e6fada70)
+- [Go语言常见坑](https://github.com/chai2010/advanced-go-programming-book/blob/master/appendix/appendix-a-trap.md)
 
 ## Core
 
