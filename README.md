@@ -5,6 +5,7 @@
 
 ## Book
 
+- [Go by Example](https://gobyexample.com/)
 - [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
 - [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)
 
@@ -27,3 +28,4 @@
 
 - [Go开发中一些有用的模式](https://colobu.com/2019/02/25/some-useful-patterns-in-go/)
 - [Golang 之工厂模式(简单工厂、工厂方法、抽象工厂)](https://blog.csdn.net/wangshubo1989/article/details/79270450)
+
