@@ -1,7 +1,7 @@
 # learning-go
 
 ## Awesome
-[Go资源精选中文版](https://github.com/chai2010/awesome-go-zh)
+- [Go资源精选中文版](https://github.com/chai2010/awesome-go-zh)
 
 ## Book
 
