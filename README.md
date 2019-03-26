@@ -23,6 +23,7 @@
 - [理解 Golang 哈希表 Map 的原理](https://draveness.me/golang-hashmap)
 - [Go 语言数组和切片的原理](https://draveness.me/golang-array-and-slice)
 - [谈 Golang 中的字符串和字节数组](https://draveness.me/golang-string)
+- [Go 语言 Channel 实现原理精要](https://draveness.me/golang-channel)
 
 ## 模式
 
