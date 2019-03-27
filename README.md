@@ -21,6 +21,7 @@
 ## Core
 
 - [理解 Golang 哈希表 Map 的原理](https://draveness.me/golang-hashmap)
+- [深入理解 Go map：赋值和扩容迁移](https://github.com/EDDYCJY/blog/blob/master/golang/pkg/2019-03-24-%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Go-map-%E8%B5%8B%E5%80%BC%E5%92%8C%E6%89%A9%E5%AE%B9%E8%BF%81%E7%A7%BB.md)
 - [Go 语言数组和切片的原理](https://draveness.me/golang-array-and-slice)
 - [谈 Golang 中的字符串和字节数组](https://draveness.me/golang-string)
 - [Go 语言 Channel 实现原理精要](https://draveness.me/golang-channel)
