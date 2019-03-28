@@ -25,6 +25,7 @@
 - [Go 语言数组和切片的原理](https://draveness.me/golang-array-and-slice)
 - [谈 Golang 中的字符串和字节数组](https://draveness.me/golang-string)
 - [Go 语言 Channel 实现原理精要](https://draveness.me/golang-channel)
+- [Go调度器系列-宏观看调度器](https://mp.weixin.qq.com/s/Qf0eq0aB4aK21Qk2vLiVhQ)
 
 ## 模式
 
