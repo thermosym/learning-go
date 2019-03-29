@@ -8,6 +8,7 @@
 - [Go by Example](https://gobyexample.com/)
 - [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
 - [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)
+- [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html)
 
 ## 坑
 
