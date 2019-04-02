@@ -27,6 +27,7 @@
 - [谈 Golang 中的字符串和字节数组](https://draveness.me/golang-string)
 - [Go 语言 Channel 实现原理精要](https://draveness.me/golang-channel)
 - [Go调度器系列-宏观看调度器](https://mp.weixin.qq.com/s/Qf0eq0aB4aK21Qk2vLiVhQ)
+- [图解Go select语句原理](https://mp.weixin.qq.com/s/K7XhCGU5GqsuSGRlkH-VyQ)
 
 ## 模式
 
